@@ -1,5 +1,5 @@
 # Hello Everyone!!
-## TIP-CALCULATOR
+## TREASURE-ISLAND
 
 It's a simple python language based CLI game aka treasure island game. its created using conditional statements of python.
 
